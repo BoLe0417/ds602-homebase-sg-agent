@@ -1,0 +1,123 @@
+HOMEBASE SG - RENTAL KNOWLEDGE FILE (for the AI rental assistant)
+Prepared by our group. Last updated: Oct 2026.
+Rent data sources: Hozuko Room Rent Snapshot (June 2026); Zrooom Cost of Renting in Singapore (May 2026).
+Note: rents and rules change. The assistant must treat all prices as rough estimates
+and tell users to check official sources (HDB, URA, IRAS, CEA) before signing.
+
+==================================================
+1. TYPES OF RENTAL
+==================================================
+- Common room: a bedroom in a shared flat, shares bathroom. Usually the cheapest option.
+- Master room: a bedroom with its own attached bathroom. Costs more than a common room.
+- Whole unit: rent the whole flat. Usually shared by a group of friends.
+- HDB flat: public housing. Usually cheaper, often older, may live with the owner.
+- Condo: private housing. Usually has a pool and gym, costs more.
+- Student hostel / co-living: furnished, flexible, often includes utilities. Usually costs more per room.
+
+Living with the owner ("owner-occupied"):
++ Often cheaper, house is usually well kept
+- Less privacy, may have house rules (no visitors, no cooking, limits on aircon use)
+
+==================================================
+2. AREAS FOR STUDENTS STUDYING AT SMU (city campus, near Bras Basah / Bencoolen / Dhoby Ghaut MRT)
+==================================================
+Commute times are approximate MRT travel times to the city area. Always check Google Maps.
+
+RENT DATA (SGD per month, asking rents, typical range = middle 50% of listings)
+Source: Hozuko "Singapore Room Rent Snapshot (June 2026)", based on ~2,000 room listings.
+These are ASKING rents, not final signed rents. Prices change, so always say they are estimates.
+"*" = no data for that exact area; the figure is for the wider region instead.
+
+Area             | MRT line(s) | Commute  | HDB common room | HDB master room | Condo common room | Notes
+-----------------|-------------|----------|-----------------|-----------------|-------------------|------------------------------
+Bugis / City     | DTL, EWL    | 5-10 min | 950-1,270*      | 1,350-1,900*    | 1,150-1,600*      | Walk to school, very busy
+Novena           | NSL         | 10-15 min| 600-990         | 1,350-1,900*    | 950-1,350         | Central, near shopping
+Toa Payoh        | NSL         | 15-20 min| 900-1,250       | 1,350-1,900*    | 990-1,300         | Mature town, lots of food
+Bishan           | NSL, CCL    | 15-20 min| 950-1,270*      | 1,350-1,900*    | 1,150-1,600*      | Convenient, popular with students
+Serangoon        | NEL, CCL    | 15-20 min| 900-1,100       | 1,100-1,460*    | 1,080-1,350*      | Mall at the MRT (NEX)
+Aljunied/Geylang | EWL         | 15-20 min| 910-1,240       | 1,350-1,900*    | 1,000-1,350       | Cheaper central option, lively at night
+Bedok            | EWL         | 25-30 min| 840-1,100       | 1,400-1,540     | 1,080-1,390       | East side, quieter
+Tampines         | EWL, DTL    | 30-40 min| 830-1,000       | 1,300-1,550*    | 1,100-1,300       | Big town, many amenities
+Clementi         | EWL         | 25-30 min| 990-1,200       | 1,200-1,500*    | 1,400-1,750       | Near NUS, student area
+Jurong East      | EWL, NSL    | 25-35 min| 730-1,000       | 1,200-1,500*    | 1,250-1,440       | Many malls
+Yishun           | NSL         | 30-35 min| 730-950         | 1,210-1,580     | no data           | Cheaper, further away
+Woodlands        | NSL, TEL    | 35-45 min| 750-1,000       | 1,000-1,500     | 1,080-1,150       | Far north, among the cheapest
+
+Regional averages (median, HDB rooms): Central common ~1,180 / master ~1,800;
+East common ~950 / master ~1,400; North common ~850 / master ~1,300;
+North-East common ~900 / master ~1,300; West common ~890 / master ~1,300.
+
+Rule of thumb: closer to the city = higher rent; further = cheaper but longer commute.
+A common room in the north or west can be about SGD 200-300 a month cheaper than in the central area,
+but the student may spend 40-60 more minutes a day travelling.
+
+==================================================
+3. BUDGET TIPS
+==================================================
+- Ask if utilities (electricity, water), Wi-Fi and aircon are included in the rent.
+  If not, budget extra every month. Utilities (electricity, water, gas) are often
+  around SGD 80-150 a month for a household; aircon use is the biggest cost.
+- Rough monthly room rents (2026, all of Singapore): HDB common room ~SGD 800-1,300,
+  HDB master room ~SGD 1,300-2,000, condo common room ~SGD 1,000-1,600,
+  condo master room ~SGD 1,700-2,500. Whole units and studios usually start from ~SGD 2,500.
+- Common upfront costs: security deposit (often 1 month's rent for a 1-year lease),
+  first month's rent, stamp duty on the tenancy agreement, and sometimes an agent fee.
+- Keep some money aside for moving, basic furniture and emergencies.
+- Monthly transport cost goes up with a longer commute. Include it when comparing areas.
+
+==================================================
+4. VIEWING CHECKLIST
+==================================================
+- Water pressure and hot water in the shower
+- Aircon works and is clean; ask when it was last serviced
+- Signs of mould, leaks or insects
+- Mobile signal and Wi-Fi speed
+- Noise (near a main road, construction, MRT track?)
+- Distance to MRT/bus stop, supermarket and food centre (walk it yourself)
+- Who else lives there? How many people share the bathroom and kitchen?
+- House rules: visitors, cooking, laundry, quiet hours, aircon use
+
+==================================================
+5. CONTRACT (TENANCY AGREEMENT) - THINGS TO CHECK
+==================================================
+- Rent, deposit amount, and when the deposit will be returned
+- Lease length and what happens if you leave early
+- Who pays for repairs (many leases say the tenant pays small repairs up to a fixed amount)
+- Aircon servicing: who arranges and pays
+- Whether utilities and Wi-Fi are included
+- Notice period to end the lease
+- Make sure everything agreed verbally is written in the contract
+- Keep a copy of the signed contract and take photos of the room on move-in day
+- Stamp duty on the tenancy agreement must be paid to IRAS: check the IRAS website for the rules
+
+==================================================
+6. RULES TO BE AWARE OF (check official websites; rules can change)
+==================================================
+- HDB flats and private homes have minimum rental periods. Check HDB (for HDB flats)
+  and URA (for private homes) before signing a short lease.
+- Tenants need a valid pass (e.g. Student's Pass) to rent.
+- There are limits on how many people can live in one flat.
+
+==================================================
+7. AVOIDING SCAMS
+==================================================
+Red flags:
+- Asked to pay a deposit before viewing the place
+- "Landlord is overseas", only contact by WhatsApp, cannot do viewing
+- Rent much cheaper than similar places nearby
+- Pressure to pay quickly ("many people want it")
+- Payment to a personal account that does not match the owner's name
+
+Safe steps:
+- Always view the place in person (or a live video call at minimum)
+- If using an agent, check they are registered on the CEA public register
+- Ask to see proof that the landlord owns the flat
+- Never pay before signing a proper contract
+
+==================================================
+8. WHEN TO SEND THE USER TO A HUMAN / OFFICIAL SOURCE
+==================================================
+- Legal disputes with a landlord (deposit not returned, eviction)
+- Questions about visa, pass or immigration status
+- Suspected scam where money was already paid (advise contacting the police / ScamShield)
+- Buying property (out of scope)
