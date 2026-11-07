@@ -12,7 +12,6 @@ HomeBase SG helps international students at SMU find a room to rent in Singapore
 | [`knowledge/`](knowledge/) | Knowledge file uploaded to the agent: room types, rent table by area, budget tips, viewing & contract checklists, scam red flags |
 | [`testing/`](testing/) | 8 test cases, V1 vs V2 results, screenshots |
 | [`presentation/`](presentation/) | Beamer slides (LaTeX source + PDF) |
-| [`scripts/`](scripts/) | Bilingual (EN/中文) presentation scripts: with slides, and live demo without slides |
 
 ## Agent design
 
